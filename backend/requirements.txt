@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+mongoengine
+pydantic
+requests
+diffusers
+torch
+Pillow
+gtts
+moviepy
+transformers
+accelerate
